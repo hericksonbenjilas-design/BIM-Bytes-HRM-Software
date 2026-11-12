@@ -1,0 +1,19 @@
+{
+  "name": "BIM Bytes — Enterprise Work & QC Suite",
+  "short_name": "BIM Bytes",
+  "description": "Real-time BIM production time tracker, QC error management, performance analytics, payroll, and team communication suite.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#090A0F",
+  "theme_color": "#cc0000",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
